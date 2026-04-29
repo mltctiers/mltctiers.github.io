@@ -284,6 +284,11 @@
       "name": "Ayush_maan234",
       "region": "Unknown",
       "device": "Unknown"
+    },
+    {
+      "name": "actuallybad",
+      "region": "Unknown",
+      "device": "Unknown"
     }
   ],
   "Emerald": {
@@ -312,7 +317,8 @@
       "ChillPotato",
       "RayValidd",
       "Vorthexis",
-      "Dream_MultiCraft"
+      "Dream_MultiCraft",
+      "actuallybad"
     ],
     "RLT2": [
       "LifoMC"
@@ -324,11 +330,11 @@
       "CosmicallyXVII",
       "-_Hades_-",
       "Mane",
-      "LastChance"
+      "LastChance",
+      "Husky_Multicraft"
     ],
     "LT3": [
-      "big-nub",
-      "Husky_Multicraft"
+      "big-nub"
     ],
     "HT4": [
       "FarXD"
@@ -472,7 +478,8 @@
       "Vorthexis"
     ],
     "HT3": [
-      "LastChance"
+      "LastChance",
+      "Husky_Multicraft"
     ],
     "HT2": [
       "LifoMC"
@@ -497,12 +504,14 @@
       "Jerryisking",
       "Mane",
       "Bloody_Hell",
-      "Possessed_YT"
+      "Possessed_YT",
+      "big-nub"
     ],
     "HT3": [
       "Vorthexis",
       "RayValidd",
-      "LastChance"
+      "LastChance",
+      "Husky_Multicraft"
     ],
     "LT3": [
       "Uncontrollable",
