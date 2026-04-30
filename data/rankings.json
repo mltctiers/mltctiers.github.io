@@ -56,11 +56,6 @@
       "device": "MK"
     },
     {
-      "name": "big-nub",
-      "region": "EU",
-      "device": "MK"
-    },
-    {
       "name": "FarXD",
       "region": "AS",
       "device": "MB"
@@ -294,12 +289,19 @@
       "name": "Corpse",
       "region": "Unknown",
       "device": "Unknown"
+    },
+    {
+      "name": "big-nub",
+      "region": "NA",
+      "device": "MK"
+    },
+    {
+      "name": "DangerMario",
+      "region": "EU",
+      "device": "MK"
     }
   ],
   "Emerald": {
-    "HT1": [
-      "Game1K"
-    ],
     "LT1": [
       "sample",
       "system1117"
@@ -338,9 +340,6 @@
       "LastChance",
       "Husky_Multicraft"
     ],
-    "LT3": [
-      "big-nub"
-    ],
     "HT4": [
       "FarXD"
     ],
@@ -356,7 +355,14 @@
       "MGK",
       "Afdemonking",
       "Luther",
-      "Kaeye"
+      "Kaeye",
+      "DangerMario"
+    ],
+    "LT3": [
+      "big-nub"
+    ],
+    "HT1": [
+      "Game1K"
     ]
   },
   "Emerald KB": {
@@ -406,8 +412,8 @@
     ],
     "LT1": [
       "system1117",
-      "big-nub",
-      "LifoMC"
+      "LifoMC",
+      "big-nub"
     ],
     "RLT1": [
       "DivyamGamerYT"
@@ -474,13 +480,13 @@
       "AntonioZga9",
       "Jetbunz99",
       "-R3ZN-",
-      "Luther",
       "vort3x",
       "bluedigit"
     ],
     "LT5": [
       "MGK",
-      "ArpanYT"
+      "ArpanYT",
+      "Luther"
     ]
   },
   "Manhunt": {
@@ -533,7 +539,19 @@
       "Luther"
     ]
   },
-  "Novelty Axe": {},
-  "Dragonhide Anchor": {},
-  "Void": {}
+  "Manipulation": {
+    "HT1": [
+      "DangerMario"
+    ]
+  },
+  "Building": {
+    "LT5": [
+      "DangerMario"
+    ]
+  },
+  "Hiring Baddies": {
+    "HT1": [
+      "DangerMario"
+    ]
+  }
 }
