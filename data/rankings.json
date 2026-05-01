@@ -294,11 +294,6 @@
       "name": "big-nub",
       "region": "NA",
       "device": "MK"
-    },
-    {
-      "name": "Nubbington28",
-      "region": "NA",
-      "device": "Apple Vision Pro"
     }
   ],
   "Emerald": {
@@ -352,8 +347,7 @@
       "MGK",
       "Afdemonking",
       "Luther",
-      "Kaeye",
-      "Nubbington28"
+      "Kaeye"
     ],
     "RLT1": [
       "Possessed_YT"
