@@ -433,8 +433,7 @@
     "LT3": [
       "revan",
       "Herobrine",
-      "Normal",
-      "Kaeye"
+      "Normal"
     ],
     "HT4": [
       "shadow_master",
@@ -480,7 +479,8 @@
       "Possessed_YT"
     ],
     "Unranked": [
-      "LastChance"
+      "LastChance",
+      "Kaeye"
     ]
   },
   "Manhunt": {
@@ -528,8 +528,7 @@
     ],
     "LT3": [
       "Uncontrollable",
-      "Kaeye",
-      "LastChance"
+      "Kaeye"
     ],
     "LT4": [
       "salton"
@@ -539,6 +538,9 @@
     ],
     "RHT1": [
       "Game1K"
+    ],
+    "Unranked": [
+      "LastChance"
     ]
   },
   "Dragonhide Anchor": {
