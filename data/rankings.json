@@ -376,7 +376,6 @@
     "LT3": [
       "Bloody_Hell",
       "Possessed_YT",
-      "Kaeye",
       "Husky_Multicraft"
     ],
     "HT4": [
@@ -394,7 +393,8 @@
       "DivyamGamerYT"
     ],
     "Unranked": [
-      "LastChance"
+      "LastChance",
+      "Kaeye"
     ]
   },
   "Dragonhide KB": {
@@ -527,8 +527,7 @@
       "actuallybad"
     ],
     "LT3": [
-      "Uncontrollable",
-      "Kaeye"
+      "Uncontrollable"
     ],
     "LT4": [
       "salton"
@@ -540,7 +539,8 @@
       "Game1K"
     ],
     "Unranked": [
-      "LastChance"
+      "LastChance",
+      "Kaeye"
     ]
   },
   "Dragonhide Anchor": {
@@ -566,6 +566,9 @@
     ],
     "HT3": [
       "Husky_Multicraft"
+    ],
+    "Unranked": [
+      "Kaeye"
     ]
   }
 }
