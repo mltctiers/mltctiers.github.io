@@ -486,8 +486,10 @@
     ]
   },
   "Manhunt": {
+    "HT2": [
+      "LifoMC"
+    ],
     "LT2": [
-      "LifoMC",
       "TimmyLoal"
     ],
     "HT3": [
