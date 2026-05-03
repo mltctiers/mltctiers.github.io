@@ -216,11 +216,6 @@
       "device": "MK"
     },
     {
-      "name": "Kaeye",
-      "region": "NA",
-      "device": "MB"
-    },
-    {
       "name": "Solace",
       "region": "AS",
       "device": "MK"
@@ -347,9 +342,6 @@
     ],
     "RLT2": [
       "LifoMC"
-    ],
-    "Unranked": [
-      "Kaeye"
     ]
   },
   "Emerald KB": {
@@ -390,9 +382,6 @@
     ],
     "RHT3": [
       "DivyamGamerYT"
-    ],
-    "Unranked": [
-      "Kaeye"
     ]
   },
   "Dragonhide KB": {
@@ -475,9 +464,6 @@
     ],
     "RHT3": [
       "Possessed_YT"
-    ],
-    "Unranked": [
-      "Kaeye"
     ]
   },
   "Manhunt": {
@@ -491,9 +477,6 @@
       "Possessed_YT",
       "Vorthexis",
       "Husky_Multicraft"
-    ],
-    "HT4": [
-      "Kaeye"
     ]
   },
   "Diamond": {
@@ -531,9 +514,6 @@
     ],
     "RHT1": [
       "Game1K"
-    ],
-    "Unranked": [
-      "Kaeye"
     ]
   },
   "Dragonhide Anchor": {
