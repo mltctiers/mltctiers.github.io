@@ -6,11 +6,6 @@
       "device": "MK"
     },
     {
-      "name": "Game1K",
-      "region": "NA",
-      "device": "MK"
-    },
-    {
       "name": "sample",
       "region": "AS",
       "device": "TP"
@@ -297,9 +292,6 @@
     }
   ],
   "Emerald": {
-    "HT1": [
-      "Game1K"
-    ],
     "LT1": [
       "sample",
       "system1117"
@@ -358,9 +350,6 @@
     ]
   },
   "Emerald KB": {
-    "HT1": [
-      "Game1K"
-    ],
     "LT1": [
       "system1117"
     ],
@@ -399,9 +388,6 @@
     ]
   },
   "Dragonhide KB": {
-    "HT1": [
-      "Game1K"
-    ],
     "LT1": [
       "system1117",
       "LifoMC",
@@ -483,9 +469,6 @@
     ]
   },
   "Manhunt": {
-    "LT1": [
-      "Game1K"
-    ],
     "HT2": [
       "LifoMC"
     ],
@@ -508,9 +491,6 @@
   "Diamond": {
     "LT1": [
       "sample"
-    ],
-    "RHT1": [
-      "Game1K"
     ],
     "HT2": [
       "skibidi1234",
