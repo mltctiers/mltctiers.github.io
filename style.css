@@ -33,21 +33,20 @@ body {
             rgba(0, 0, 0, 0.98) 100%
         ),
         radial-gradient(circle at 20% 30%,
-            rgba(0, 238, 255, 0.18),
+            rgba(0, 255, 100, 0.18), /* green glow */
             transparent 60%
         ),
         radial-gradient(circle at 80% 40%,
-            rgba(255, 0, 255, 0.14),
+            rgba(0, 255, 255, 0.14), /* cyan glow */
             transparent 65%
         ),
         radial-gradient(circle at 50% 85%,
-            rgba(122, 0, 255, 0.10),
+            rgba(0, 200, 150, 0.10), /* blend between green + cyan */
             transparent 70%
         ),
         linear-gradient(135deg,
             rgba(0, 0, 0, 0.75),
             rgba(0, 0, 0, 0.98)
-        );
     background-blend-mode: screen, screen, screen, screen, normal;
     background-attachment: fixed;
     animation: bgPulse 16s ease-in-out infinite;
